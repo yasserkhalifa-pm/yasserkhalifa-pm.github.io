@@ -1,3 +1,3 @@
 # Yasser Khalifa | Product Manager
 
-Portfolio website: https://yasserhesham.github.io/portfolio/
+Portfolio website: https://yasserkhalifa-pm.github.io/
